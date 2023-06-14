@@ -1,0 +1,35 @@
+﻿Lists, Dictionaries, Tuples, Regular Expressions
+
+
+
+
+1. Write Pythonic code that implements and returns the functionality of histogram using dictionaries. Also, write the function print_hist to print the keys and their values in alphabetical order from the values returned by the histogram function. 
+
+
+2. Write Pythonic code to input information about 20 students as given below: 
+1) Roll number
+2) Name
+3) Total Marks
+
+
+3. Get the input from the user for a student name. The program should display the Roll number and total marks for the given student name. Also, find the average marks of all the students. Use dictionaries. 
+
+
+4. Why do you need regular expressions in Python? Consider the file from the user and write a Python program to read the file and look for lines of the form 
+X-DSPAM-Confidence: 0.8475
+X-DSPAM-Probability: 0.458
+         Extract the number from each of the lines using a regular expression. 
+         Compute the average of the numbers and print out the average. 
+
+
+
+5. Write Pythonic code to demonstrate tuples by sorting a list of words from longest to shortest using loops. 
+
+
+6. Consider the line "From stephen.marquard@uct.ac.za Sat Jan 5 09:14:16 2008" in the file email.txt. Write Pythonic code to read the file and extract email address from the lines starting from the word "From". Use regular expressions to match email addresses. 
+
+
+7. Write Pythonic code to create a function called most_frequent that takes a string and prints the letters in decreasing order of frequency. Use dictionaries. 
+
+
+8. Consider the string „brontosaurus‟. Write Pythonic code that implements and returns the functionality of histogram using dictionaries for the given string. Also, write the function print_hist to print the keys and their values in alphabetical order from the values returned by the histogram function.
